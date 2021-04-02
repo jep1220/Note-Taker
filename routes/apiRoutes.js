@@ -3,7 +3,7 @@ const { v4: uuidv4 } = require('uuid');
 
 
 module.exports = (app) => {
-
+     
     // read in and display notes
     app.get("/api/notes", (req, res) => {
         fs.readFile('./db/db.json', (err, data) => {
