@@ -1,5 +1,7 @@
 ## Acceptance Criteria
 
+## Acceptance Criteria
+
 ```
 GIVEN a note-taking application
 WHEN I open the Note Taker
@@ -15,3 +17,11 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
+
+## Deployed Link
+
+Deployed on Heroku at:  [expr3ss-notetaker](https://expr3ss-notetaker.herokuapp.com/notes/)
+
+
+
+![Untitled_ Apr 1, 2021 9_06 PM](https://user-images.githubusercontent.com/38770396/113379650-ef72f800-932e-11eb-8bef-119a08743c2c.gif)
